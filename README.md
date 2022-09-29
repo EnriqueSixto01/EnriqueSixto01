@@ -13,5 +13,7 @@ I graduated in Communication and Electronics Engineering with a speciality in el
 - Node JS
 - PostgreSQL
 
-
+### Contact me
+  - enriquesixto95@gmail.com           
+  - www.linkedin.com/in/luis-enrique-sixto-lópez
 
